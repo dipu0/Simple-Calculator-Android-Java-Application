@@ -22,7 +22,7 @@
         android:gravity="center"
         android:text=""
         android:textSize="40dp"
-        android:textStyle="bold"/>
+        android:textStyle="bold" />
 
     <LinearLayout
         android:id="@+id/LL1"
