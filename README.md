@@ -17,7 +17,7 @@ This calculator will add, subtract, multiply, and divide. It will use infix to P
 
 ## Demo
 
-![Demo](ScreenShot/SC_202022-07-17.mp4)
+![Demo](ScreenShot/SC_2022-07-17.mp4)
 
 
 ## Screenshots
